@@ -4,10 +4,10 @@
 This project is involve analyzing dataset of Bike Sharing Dataset publicly available on kaggle with general step of data analysis and visualization with the use of Python. 
 
 It involve step-by-step: 
-- [ ] Importing Libraries
-- [ ] Data Wrangling (Gathering, Assessing and Cleaning Data)
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Visualization and Explanatory Analysis
+- [x] Importing Libraries
+- [x] Data Wrangling (Gathering, Assessing and Cleaning Data)
+- [x] Exploratory Data Analysis (EDA)
+- [x] Visualization and Explanatory Analysis
 
 ## How-to
 ### Setup environment
