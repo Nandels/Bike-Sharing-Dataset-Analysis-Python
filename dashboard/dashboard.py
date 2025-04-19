@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Judul Dashboard
-st.title("Dashboard Analisis Bike Sharing")
+st.title("Dashboard Analisis Bike Sharing Dataset")
 
 # Load dataset
 @st.cache_data  # Cache data untuk mempercepat loading
