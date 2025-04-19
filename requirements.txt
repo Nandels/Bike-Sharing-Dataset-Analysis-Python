@@ -3,3 +3,4 @@ numpy==2.2.4
 pandas==2.2.3
 seaborn==0.13.2
 streamlit==1.43.2
+ipykernel==6.29.5
